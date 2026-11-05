@@ -2,7 +2,7 @@
   "expo": {
     "name": "GameGuideAll",
     "slug": "gameguide-all",
-    "version": "1.0.0",
+    "version": "0.7.8beta",
     "orientation": "default",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "automatic",
